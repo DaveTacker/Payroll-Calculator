@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Payroll Calculator.exe" version="1.0.0.3" publicKeyToken="d7c78c89f93f9316" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Payroll Calculator" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Payroll Calculator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Payroll Calculator.exe" size="218112">
+      <assemblyIdentity name="Payroll Calculator" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>5dJONCL8aD4yK5YMtAGbTKgZ8iE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="icon.ico" size="13131">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WFuN1C+MYYZzGBAqkXl2c1mvaHA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Payroll Calculator.exe.config" size="2313">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2BGsN0F34awzTiXoFsqRXPwiUPQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DAVE-MACWIN\David" issuerKeyHash="43e0ad12c8cee30ea074d3bcb2ba5b7bf3b77b5c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>BlAa0FS0bozweKEK+STHiIwVjdo=</DigestValue></Reference></SignedInfo><SignatureValue>KHuKlHEvKScGjkGEPcZv1zdLWyvJcORA2pL0myeXlp8G0+/LdDMl/nKySGEblR7uZxr/lIca0ZOpd+TaE8Dj9fzj5dtZAGNfQ5hk+Z4QwUSjBeqbxr1UmgD/EvRgfS8bS/0zZVk0RqUbL87hWbCmksN5flCkBUIs19OFHS3/QlA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wausLaw94BFBuvRW/qfEe4RmWMZP9i/gNN1B+kF4wlViysa9zHNZuQGcvpszGnNGnO+K2cfY0dJ7Gguxj20Licqm16XdtfLfaDI/irNgjoAWcN+aQzfWzca2IQpUdsEB+X13Oz0oY8HixpAlk0nNXlP7oLdZt6mz7RBL+udfn8E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="da8d158c88c724f90aa178f08c6eb454d01a5006" Description="" Url=""><as:assemblyIdentity name="Payroll Calculator.exe" version="1.0.0.3" publicKeyToken="d7c78c89f93f9316" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DAVE-MACWIN\David</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>CueEf0whyaiVgCVNVO2nyidOAKc=</DigestValue></Reference></SignedInfo><SignatureValue>c3iyh0i7xBysrmpl5cG/sqRrlCTOhj2rAgcJGkvtb9H5zegS/xwHCIXBTsK0MqjVAJ/WqDQRo82kf5zPMkaJWPocKAQtOjczUe8hzSIkTcwlHnrH7RvrehEGQRvgzukPkyPkNOi2+xOrjSDHd9ECqJwKhMIKAJwGf9pVDYiiB9U=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wausLaw94BFBuvRW/qfEe4RmWMZP9i/gNN1B+kF4wlViysa9zHNZuQGcvpszGnNGnO+K2cfY0dJ7Gguxj20Licqm16XdtfLfaDI/irNgjoAWcN+aQzfWzca2IQpUdsEB+X13Oz0oY8HixpAlk0nNXlP7oLdZt6mz7RBL+udfn8E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQdSusdqNVDIRI1oNqgf2oZzANBgkqhkiG9w0BAQUFADAtMSswKQYDVQQDHiIARABBAFYARQAtAE0AQQBDAFcASQBOAFwARABhAHYAaQBkMB4XDTE0MDgwMzAyNDg1MVoXDTE1MDgwMzA4NDg1MVowLTErMCkGA1UEAx4iAEQAQQBWAEUALQBNAEEAQwBXAEkATgBcAEQAYQB2AGkAZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwausLaw94BFBuvRW/qfEe4RmWMZP9i/gNN1B+kF4wlViysa9zHNZuQGcvpszGnNGnO+K2cfY0dJ7Gguxj20Licqm16XdtfLfaDI/irNgjoAWcN+aQzfWzca2IQpUdsEB+X13Oz0oY8HixpAlk0nNXlP7oLdZt6mz7RBL+udfn8ECAwEAATANBgkqhkiG9w0BAQUFAAOBgQBEktQCbt1IAeex41EL25x5lulR5+wNEMVbEi3wt1pI3CtAf4XJ4gLR4rDQZDi/gVwe6OT63F37FPn/nYDX7gLrgh2LotN+/ItySCWpU0WQ1vUXFhfXSvrLj6LJpWGYhrBJmi90GXt8Rmg0FGN+iJW6iSwB2hHdb4lk6iDFt0kk3w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

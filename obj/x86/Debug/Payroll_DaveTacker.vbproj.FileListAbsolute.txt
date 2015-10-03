@@ -1,0 +1,9 @@
+C:\Users\Geeks\AppData\Local\Temporary Projects\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker.exe
+C:\Users\Geeks\AppData\Local\Temporary Projects\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker.pdb
+C:\Users\Geeks\AppData\Local\Temporary Projects\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker.xml
+C:\Users\Geeks\AppData\Local\Temporary Projects\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.Payroll.resources
+C:\Users\Geeks\AppData\Local\Temporary Projects\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.Resources.resources
+C:\Users\Geeks\AppData\Local\Temporary Projects\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.vbproj.GenerateResource.Cache
+C:\Users\Geeks\AppData\Local\Temporary Projects\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.exe
+C:\Users\Geeks\AppData\Local\Temporary Projects\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.xml
+C:\Users\Geeks\AppData\Local\Temporary Projects\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.pdb

@@ -1,0 +1,31 @@
+C:\Users\David\Downloads\New folder\Payroll_1\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.Fancy_Form.resources
+C:\Users\David\Downloads\New folder\Payroll_1\Payroll_DaveTacker\obj\x86\Debug\DaveTacker_Payroll_Calculator.vbproj.GenerateResource.Cache
+C:\Users\David\Downloads\New folder\Payroll_1\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker1.exe
+C:\Users\David\Downloads\New folder\Payroll_1\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker1.pdb
+C:\Users\David\Downloads\New folder\Payroll_1\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker1.xml
+C:\Users\David\Downloads\New folder\Payroll_1\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.Resources.resources
+C:\Users\David\Downloads\New folder\Payroll_1\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker1.exe
+C:\Users\David\Downloads\New folder\Payroll_1\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker1.xml
+C:\Users\David\Downloads\New folder\Payroll_1\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker1.pdb
+C:\Users\Geeks\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker1.exe
+C:\Users\Geeks\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker1.xml
+C:\Users\Geeks\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker1.pdb
+C:\Users\Geeks\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker1.exe
+C:\Users\Geeks\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker1.pdb
+C:\Users\Geeks\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker1.xml
+C:\Users\Geeks\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.Fancy_Form.resources
+C:\Users\Geeks\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.Resources.resources
+C:\Users\Geeks\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Debug\DaveTacker_Payroll_Calculator.vbproj.GenerateResource.Cache
+C:\Users\David\Downloads\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker1.exe
+C:\Users\David\Downloads\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker1.xml
+C:\Users\David\Downloads\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker1.pdb
+C:\Users\David\Downloads\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker1.exe
+C:\Users\David\Downloads\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker1.pdb
+C:\Users\David\Downloads\Payroll_DaveTacker\bin\Debug\Payroll_DaveTacker1.xml
+C:\Users\David\Downloads\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.Fancy_Form.resources
+C:\Users\David\Downloads\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.Resources.resources
+C:\Users\David\Downloads\Payroll_DaveTacker\obj\x86\Debug\DaveTacker_Payroll_Calculator.vbproj.GenerateResource.Cache
+C:\Users\David\Downloads\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.To_Do.resources
+C:\Users\David\Downloads\Payroll_DaveTacker\obj\x86\Debug\Payroll_DaveTacker.About.resources
+C:\Users\David\Downloads\Payroll_DaveTacker\obj\x86\Debug\Interop.MSScriptControl.dll
+C:\Users\David\Downloads\Payroll_DaveTacker\obj\x86\Debug\DaveTacker_Payroll_Calculator.vbproj.ResolveComReference.cache

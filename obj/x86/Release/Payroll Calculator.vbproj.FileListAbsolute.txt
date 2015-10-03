@@ -1,0 +1,51 @@
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Interop.MSScriptControl.dll
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Payroll Calculator.vbproj.ResolveComReference.cache
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\bin\Release\Payroll Calculator.exe
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\bin\Release\Payroll Calculator.pdb
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\bin\Release\Payroll Calculator.xml
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Payroll_Calculator.About.resources
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Payroll_Calculator.Fancy_Form.resources
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Payroll_Calculator.Resources.resources
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Payroll_Calculator.Salary_Comparison.resources
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Payroll_Calculator.To_Do.resources
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Payroll Calculator.vbproj.GenerateResource.Cache
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Payroll Calculator.exe
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Payroll Calculator.xml
+C:\Users\David\Downloads\Payroll_DaveTacker\Payroll_DaveTacker\obj\x86\Release\Payroll Calculator.pdb
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Interop.MSScriptControl.dll
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll Calculator.vbproj.ResolveComReference.cache
+C:\Users\David\Downloads\Payroll Calculator\bin\Release\Payroll Calculator.exe
+C:\Users\David\Downloads\Payroll Calculator\bin\Release\Payroll Calculator.pdb
+C:\Users\David\Downloads\Payroll Calculator\bin\Release\Payroll Calculator.xml
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll_Calculator.About.resources
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll_Calculator.frmAbout.resources
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll_Calculator.Fancy_Form.resources
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll_Calculator.Resources.resources
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll_Calculator.Salary_Comparison.resources
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll_Calculator.To_Do.resources
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll Calculator.vbproj.GenerateResource.Cache
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll Calculator.exe
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll Calculator.xml
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll Calculator.pdb
+C:\Users\David\Downloads\Payroll Calculator\obj\x86\Release\Payroll_Calculator.frmRates.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Interop.MSScriptControl.dll
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll Calculator.vbproj.ResolveComReference.cache
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll Calculator.exe
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll Calculator.xml
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll Calculator.pdb
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Release\Payroll Calculator.exe.config
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Release\Payroll Calculator.exe.manifest
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Release\Payroll Calculator.application
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Release\Payroll Calculator.exe
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Release\Payroll Calculator.pdb
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Release\Payroll Calculator.xml
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll_Calculator.frmAbout.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll_Calculator.frmHourlyToSalary.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll_Calculator.frmRates.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll_Calculator.Fancy_Form.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll_Calculator.Resources.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll_Calculator.Salary_Comparison.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll_Calculator.To_Do.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll Calculator.vbproj.GenerateResource.Cache
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll Calculator.exe.manifest
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Release\Payroll Calculator.application

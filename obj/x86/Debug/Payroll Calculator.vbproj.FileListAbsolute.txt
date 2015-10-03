@@ -1,0 +1,21 @@
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.exe.config
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.exe.manifest
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.application
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.exe
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.pdb
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.xml
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Interop.MSScriptControl.dll
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll Calculator.vbproj.ResolveComReference.cache
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll_Calculator.frmAbout.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll_Calculator.frmHourlyToSalary.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll_Calculator.frmRates.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll_Calculator.Fancy_Form.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll_Calculator.Resources.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll_Calculator.Salary_Comparison.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll_Calculator.To_Do.resources
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll Calculator.vbproj.GenerateResource.Cache
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll Calculator.exe.manifest
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll Calculator.application
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll Calculator.exe
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll Calculator.xml
+C:\Users\David\Downloads\Payroll Calculator\Payroll Calculator\obj\x86\Debug\Payroll Calculator.pdb
